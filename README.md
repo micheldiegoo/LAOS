@@ -10,3 +10,4 @@ A apresentação dos dados de vendas foi exposta por dimensões clientes, cores 
 No dashboard de custos, temos visões por pedidos, por fornecedores, cores e tipos de produtos, além das despesas com taxas bancárias. 
 
 Sob ótica do faturamento bruto e lucro líquido, foi apresentada por produto e por data.
+
